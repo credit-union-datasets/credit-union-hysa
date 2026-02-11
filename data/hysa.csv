@@ -1,3 +1,3 @@
-charter_number,institution,product,apy,min_balance,max_balance,last_updated,url
-68608,Texell,SAVE First savings,3.25%,$0,"$25,000",2026-02-06,https://www.texell.org/personal/savings
-67928,EECU,High Yield Savings Account,3.00%,$0,No max,2026-02-06,https://eecu.org/personal-banking/savings-accounts-cds/products/high-yield-savings
+charter_number,product,apy,min_balance,max_balance,last_updated,url
+68608,SAVE First savings,3.25%,$0,"$25,000",2026-02-06,https://www.texell.org/personal/savings
+67928,High Yield Savings Account,3.00%,$0,No max,2026-02-06,https://eecu.org/personal-banking/savings-accounts-cds/products/high-yield-savings
